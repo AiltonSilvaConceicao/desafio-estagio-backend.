@@ -39,3 +39,25 @@ Bonus: Filtro de busca textual.
 - Semântica
 - Decisões Técnicas
 - Ferramentas Utilizadas
+
+## Sobre a Realização do Desafio by Ailton Silva
+
+Desafio proposto pela Covergence Works para vaga de Programador PHP
+
+Foram utilizadas as seguintes ferramentas: 
+
+1 - Template Metronic; 
+2 - Framework Laravel versão 8x;
+3 - DOMDocument class PHP
+
+Foi desenvolvida uma aplicação em PHP com 4 rotinas específicas para atender às especificações do desafio, e segue as URLs com parâmetros hipotéticos para ambiente local:
+
+1 - Pesquisa por Categoria: http://localhost/desafio-estagio-backend./public/search-filter-category/brasil 
+
+2 - Pesquisa por Limitação de linhas: http://localhost/desafio-estagio-backend./public/search-filter-limit/3 
+
+3 - Pesquisa por ordenação: http://localhost/desafio-estagio-backend./public/search-filter-ordem/asc 
+
+4 - Pesquisa por Conteúdo Textual (bonus): http://localhost/desafio-estagio-backend./public/search-filter-content/brasil
+
+A aplicação foi desenvolvida para rotas GET conforme solicitado, e está funcional do ponto de vista do entendimento da tarefa.
